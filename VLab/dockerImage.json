@@ -10,7 +10,7 @@
       "-c"
  ],
     "command": [
-      "cd SCRIPT && ./run.sh"
+      "cd New_model_WP4 && ./run.sh"
  ]
   }
 }
