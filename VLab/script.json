@@ -1,0 +1,14 @@
+{
+  "scripts": [
+    {
+      "repoPath": "run.sh",
+      "targetPath": "run.sh",
+      "pathType": "FILE"
+ },
+    {
+      "repoPath": "wp_4_aidin01.R",
+      "targetPath": "wp_4_aidin01.R",
+      "pathType": "FILE"
+ }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "inputs": [
+    {
+      "id": "DataObject_0h3a3ff",
+      "inputType": "individual",
+      "valueType": "value",
+      "description": "esa 1992 land cover",
+      "name": "esa 1992",
+      "obligation": true,
+      "hasDefault": false,
+      "valueSchema": "url",
+      "target": "DATA/esa_lc_1992_agg10.tif"
+ },
+ {
+      "id": "DataObject_0h3a3ffg",
+      "inputType": "individual",
+      "valueType": "value",
+      "description": "esa 2015 land cover",
+      "name": "esa 2015",
+      "obligation": true,
+      "hasDefault": false,
+      "valueSchema": "url",
+      "target": "DATA/esa_lc_2015_agg10.tif" 
+ }
+  ],
+  "outputs": [
+    {
+      "id": "DataObject_0n95v5p",
+      "outputType": "individual",
+      "valueType": "value",
+      "description": "esa png",
+      "name": "esa png",
+      "valueSchema": "url",
+      "target": "esa.png"
+ }
+  ]
+}

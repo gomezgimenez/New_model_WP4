@@ -1,0 +1,16 @@
+{
+  "image": "rocker/geospatial",
+  "resources": {
+    "memory_mb": "5000",
+    "cpu_units": ""
+ },
+  "container": {
+    "entryPoint": [
+      "/bin/bash",
+      "-c"
+ ],
+    "command": [
+      "cd SCRIPT && ./run.sh"
+ ]
+  }
+}
