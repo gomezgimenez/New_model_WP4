@@ -1,7 +1,7 @@
 {
   "inputs": [
     {
-      "id": "DataObject_0h3a3ff",
+      "id": "DataObject_0h3a3ff1212",
       "inputType": "individual",
       "valueType": "value",
       "description": "esa 1992 land cover",
@@ -12,7 +12,7 @@
       "target": "DATA/esa_lc_1992_agg10.tif"
  },
  {
-      "id": "DataObject_0h3a3ffg",
+      "id": "DataObject_0h3a3ff1313",
       "inputType": "individual",
       "valueType": "value",
       "description": "esa 2015 land cover",
