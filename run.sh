@@ -1,1 +1,1 @@
-R wp_4_aidin01.R
+Rscript wp_4_aidin01.R
