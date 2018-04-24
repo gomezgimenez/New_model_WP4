@@ -10,7 +10,7 @@
       "-c"
  ],
     "command": [
-      "run.sh"
+      "sh run.sh"
  ]
   }
 }
