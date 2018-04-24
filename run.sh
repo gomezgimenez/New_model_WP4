@@ -1,1 +1,1 @@
-Rscript wp_4_aidin01.R
+R BATCH CMD wp_4_aidin01.R
